@@ -31,7 +31,7 @@ else:
     GS_ACCOUNT_JSON = os.environ[env_google_key]
 GS_ACCOUNT_PATH = 'google_sheet_account.json'
 GG_SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
-GS_URL = 'https://docs.google.com/spreadsheets/d/11AqzXaJbt5yHgoP0x4lt1M-sTDlvYee9C1syTASHyhM/edit?usp=sharing'
+GS_URL = 'https://docs.google.com/spreadsheets/d/1mle9XTEcDaKScbsAZxh41IqzKd9ZOYj4DzK752Bh6og/edit#gid=857394892'
 
 # Set Page config
 st.set_page_config(
